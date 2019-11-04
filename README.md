@@ -1,4 +1,4 @@
-<H3>This code is simulate digital zoom in a camera</H3>
+This code is simulate digital zoom in a camera.
 1)To run it first you should download Miniconda on your PC:
 # Linux
 $ wget https :// repo . anaconda . com / miniconda / Miniconda3 - latest -Linux - x86_64 .sh
